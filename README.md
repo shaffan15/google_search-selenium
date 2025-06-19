@@ -1,2 +1,2 @@
 # google_search-selenium
-This repository contains code for Google search at google.com using Selenium Java
+This repository contains a small code for Google search at google.com using Selenium Java
